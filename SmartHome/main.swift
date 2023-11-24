@@ -7,5 +7,15 @@
 
 import Foundation
 
-print("Hello, World!")
+class SmartHome {
+    
+}
+
+class LightBulb {
+    
+}
+
+class
+
+
 
